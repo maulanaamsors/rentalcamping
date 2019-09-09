@@ -1,0 +1,29 @@
+Penggunaan Program : 
+
+1. Hidupkan Xampp 
+2. Gunakan Browser : Google Chrome
+3. Import database, dengan nama rentalcamping, location file luar folder /rentalcamping : rentalcamping.sql
+4. Menggunakan program Rental Camping Online :
+ 
+Tampilan User : localhost/rentalcamping/public
+ 
+user misal : 
+username : maulanaamsors02
+password : amsor
+
+
+Tampilan Login Admin : localhost/rentalcamping/public/admin/login-admin
+username : admin
+password : admin
+
+
+5. Selamat Mencoba.
+
+
+~Terima Kasih 
+
+
+
+
+
+
